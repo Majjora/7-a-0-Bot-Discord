@@ -19,8 +19,8 @@ Bot interativo para Discord inspirado no jogo *7 a 0*, desenvolvido em Python. O
 ## 🔧 Como Executar Localmente
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/7a0-bot-discord.git](https://github.com/SEU_USUARIO/7a0-bot-discord.git)
-   cd 7a0-bot-discord
+   git clone https://github.com/Majjora/7-a-0-Bot-Discord.git
+   cd 7-a-0-Bot-Discord
 
 
 ## Depedências
