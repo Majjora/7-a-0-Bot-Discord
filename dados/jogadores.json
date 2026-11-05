@@ -129,7 +129,7 @@
     "nome": "Falcão",
     "selecao": "Brasil",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -171,7 +171,7 @@
     "nome": "Neymar",
     "selecao": "Brasil",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
@@ -304,7 +304,7 @@
     "nome": "Falcão",
     "selecao": "Brasil",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -346,7 +346,7 @@
     "nome": "Neymar",
     "selecao": "Brasil",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
@@ -479,7 +479,7 @@
     "nome": "Falcão",
     "selecao": "Brasil",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 94
   },
   {
@@ -521,7 +521,7 @@
     "nome": "Neymar",
     "selecao": "Brasil",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
@@ -654,7 +654,7 @@
     "nome": "Falcão",
     "selecao": "Brasil",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -696,7 +696,7 @@
     "nome": "Neymar",
     "selecao": "Brasil",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
@@ -829,7 +829,7 @@
     "nome": "Falcão",
     "selecao": "Brasil",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -871,7 +871,7 @@
     "nome": "Neymar",
     "selecao": "Brasil",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
@@ -1004,7 +1004,7 @@
     "nome": "Falcão",
     "selecao": "Brasil",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -1046,7 +1046,7 @@
     "nome": "Neymar",
     "selecao": "Brasil",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
@@ -1179,7 +1179,7 @@
     "nome": "Falcão",
     "selecao": "Brasil",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 93
   },
   {
@@ -1221,7 +1221,7 @@
     "nome": "Neymar",
     "selecao": "Brasil",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
@@ -1340,21 +1340,21 @@
     "nome": "Xavi",
     "selecao": "Espanha",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 94
   },
   {
     "nome": "Andrés Iniesta",
     "selecao": "Espanha",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Cesc Fàbregas",
     "selecao": "Espanha",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -1368,35 +1368,35 @@
     "nome": "Pedri",
     "selecao": "Espanha",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
     "nome": "Fernando Torres",
     "selecao": "Espanha",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": "David Villa",
     "selecao": "Espanha",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "Raúl",
     "selecao": "Espanha",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE ",
     "overall": 93
   },
   {
     "nome": "Lamine Yamal",
     "selecao": "Espanha",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
@@ -1515,21 +1515,21 @@
     "nome": "Xavi",
     "selecao": "Espanha",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
     "nome": "Andrés Iniesta",
     "selecao": "Espanha",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Cesc Fàbregas",
     "selecao": "Espanha",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -1543,35 +1543,35 @@
     "nome": "Pedri",
     "selecao": "Espanha",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 88
   },
   {
     "nome": "Fernando Torres",
     "selecao": "Espanha",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "David Villa",
     "selecao": "Espanha",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Raúl",
     "selecao": "Espanha",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Lamine Yamal",
     "selecao": "Espanha",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 87
   },
   {
@@ -1690,21 +1690,21 @@
     "nome": "Xavi",
     "selecao": "Espanha",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Andrés Iniesta",
     "selecao": "Espanha",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 98
   },
   {
     "nome": "Cesc Fàbregas",
     "selecao": "Espanha",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 89
   },
   {
@@ -1718,35 +1718,35 @@
     "nome": "Pedri",
     "selecao": "Espanha",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
     "nome": "Fernando Torres",
     "selecao": "Espanha",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "David Villa",
     "selecao": "Espanha",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Raúl",
     "selecao": "Espanha",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Lamine Yamal",
     "selecao": "Espanha",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
@@ -1865,21 +1865,21 @@
     "nome": "Xavi",
     "selecao": "Espanha",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Andrés Iniesta",
     "selecao": "Espanha",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Cesc Fàbregas",
     "selecao": "Espanha",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -1893,35 +1893,35 @@
     "nome": "Pedri",
     "selecao": "Espanha",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 89
   },
   {
     "nome": "Fernando Torres",
     "selecao": "Espanha",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
     "nome": "David Villa",
     "selecao": "Espanha",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Raúl",
     "selecao": "Espanha",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Lamine Yamal",
     "selecao": "Espanha",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 87
   },
   {
@@ -2040,21 +2040,21 @@
     "nome": "Xavi",
     "selecao": "Espanha",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Andrés Iniesta",
     "selecao": "Espanha",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
     "nome": "Cesc Fàbregas",
     "selecao": "Espanha",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -2068,35 +2068,35 @@
     "nome": "Pedri",
     "selecao": "Espanha",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
     "nome": "Fernando Torres",
     "selecao": "Espanha",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
     "nome": "David Villa",
     "selecao": "Espanha",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Raúl",
     "selecao": "Espanha",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Lamine Yamal",
     "selecao": "Espanha",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
@@ -2215,21 +2215,21 @@
     "nome": "Xavi",
     "selecao": "Espanha",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Andrés Iniesta",
     "selecao": "Espanha",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 98
   },
   {
     "nome": "Cesc Fàbregas",
     "selecao": "Espanha",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -2243,35 +2243,35 @@
     "nome": "Pedri",
     "selecao": "Espanha",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
     "nome": "Fernando Torres",
     "selecao": "Espanha",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "David Villa",
     "selecao": "Espanha",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "Raúl",
     "selecao": "Espanha",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
     "nome": "Lamine Yamal",
     "selecao": "Espanha",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 87
   },
   {
@@ -2390,21 +2390,21 @@
     "nome": "Xavi",
     "selecao": "Espanha",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
     "nome": "Andrés Iniesta",
     "selecao": "Espanha",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 98
   },
   {
     "nome": "Cesc Fàbregas",
     "selecao": "Espanha",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 88
   },
   {
@@ -2418,35 +2418,35 @@
     "nome": "Pedri",
     "selecao": "Espanha",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
     "nome": "Fernando Torres",
     "selecao": "Espanha",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "David Villa",
     "selecao": "Espanha",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Raúl",
     "selecao": "Espanha",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Lamine Yamal",
     "selecao": "Espanha",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 87
   },
   {
@@ -2593,35 +2593,35 @@
     "nome": "Kylian Mbappé",
     "selecao": "França",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Thierry Henry",
     "selecao": "França",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
     "nome": "David Trezeguet",
     "selecao": "França",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Olivier Giroud",
     "selecao": "França",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
     "nome": "Karim Benzema",
     "selecao": "França",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
@@ -2768,35 +2768,35 @@
     "nome": "Kylian Mbappé",
     "selecao": "França",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Thierry Henry",
     "selecao": "França",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "David Trezeguet",
     "selecao": "França",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Olivier Giroud",
     "selecao": "França",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 88
   },
   {
     "nome": "Karim Benzema",
     "selecao": "França",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
@@ -2943,35 +2943,35 @@
     "nome": "Kylian Mbappé",
     "selecao": "França",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Thierry Henry",
     "selecao": "França",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
     "nome": "David Trezeguet",
     "selecao": "França",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": "Olivier Giroud",
     "selecao": "França",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 88
   },
   {
     "nome": "Karim Benzema",
     "selecao": "França",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
@@ -3118,35 +3118,35 @@
     "nome": "Kylian Mbappé",
     "selecao": "França",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Thierry Henry",
     "selecao": "França",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
     "nome": "David Trezeguet",
     "selecao": "França",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Olivier Giroud",
     "selecao": "França",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 88
   },
   {
     "nome": "Karim Benzema",
     "selecao": "França",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
@@ -3293,35 +3293,35 @@
     "nome": "Kylian Mbappé",
     "selecao": "França",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Thierry Henry",
     "selecao": "França",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "David Trezeguet",
     "selecao": "França",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Olivier Giroud",
     "selecao": "França",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
     "nome": "Karim Benzema",
     "selecao": "França",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
@@ -3468,35 +3468,35 @@
     "nome": "Kylian Mbappé",
     "selecao": "França",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Thierry Henry",
     "selecao": "França",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
     "nome": "David Trezeguet",
     "selecao": "França",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Olivier Giroud",
     "selecao": "França",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 88
   },
   {
     "nome": "Karim Benzema",
     "selecao": "França",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
@@ -3643,35 +3643,35 @@
     "nome": "Kylian Mbappé",
     "selecao": "França",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Thierry Henry",
     "selecao": "França",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "David Trezeguet",
     "selecao": "França",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": "Olivier Giroud",
     "selecao": "França",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": "Karim Benzema",
     "selecao": "França",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
@@ -3776,14 +3776,14 @@
     "nome": "Toni Kroos",
     "selecao": "Alemanha",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 94
   },
   {
     "nome": "Michael Ballack",
     "selecao": "Alemanha",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 93
   },
   {
@@ -3804,7 +3804,7 @@
     "nome": "Ilkay Gündogan",
     "selecao": "Alemanha",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 88
   },
   {
@@ -3818,35 +3818,35 @@
     "nome": "Miroslav Klose",
     "selecao": "Alemanha",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Gerd Müller",
     "selecao": "Alemanha",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 98
   },
   {
     "nome": "Jürgen Klinsmann",
     "selecao": "Alemanha",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Rudi Völler",
     "selecao": "Alemanha",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Kai Havertz",
     "selecao": "Alemanha",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
@@ -3951,14 +3951,14 @@
     "nome": "Toni Kroos",
     "selecao": "Alemanha",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Michael Ballack",
     "selecao": "Alemanha",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
@@ -3979,7 +3979,7 @@
     "nome": "Ilkay Gündogan",
     "selecao": "Alemanha",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -3993,35 +3993,35 @@
     "nome": "Miroslav Klose",
     "selecao": "Alemanha",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "Gerd Müller",
     "selecao": "Alemanha",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
     "nome": "Jürgen Klinsmann",
     "selecao": "Alemanha",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Rudi Völler",
     "selecao": "Alemanha",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Kai Havertz",
     "selecao": "Alemanha",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 87
   },
   {
@@ -4126,14 +4126,14 @@
     "nome": "Toni Kroos",
     "selecao": "Alemanha",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 98
   },
   {
     "nome": "Michael Ballack",
     "selecao": "Alemanha",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
@@ -4154,7 +4154,7 @@
     "nome": "Ilkay Gündogan",
     "selecao": "Alemanha",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 88
   },
   {
@@ -4168,35 +4168,35 @@
     "nome": "Miroslav Klose",
     "selecao": "Alemanha",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "Gerd Müller",
     "selecao": "Alemanha",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Jürgen Klinsmann",
     "selecao": "Alemanha",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Rudi Völler",
     "selecao": "Alemanha",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Kai Havertz",
     "selecao": "Alemanha",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 88
   },
   {
@@ -4301,14 +4301,14 @@
     "nome": "Toni Kroos",
     "selecao": "Alemanha",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Michael Ballack",
     "selecao": "Alemanha",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -4329,7 +4329,7 @@
     "nome": "Ilkay Gündogan",
     "selecao": "Alemanha",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 87
   },
   {
@@ -4343,35 +4343,35 @@
     "nome": "Miroslav Klose",
     "selecao": "Alemanha",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Gerd Müller",
     "selecao": "Alemanha",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 98
   },
   {
     "nome": "Jürgen Klinsmann",
     "selecao": "Alemanha",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Rudi Völler",
     "selecao": "Alemanha",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Kai Havertz",
     "selecao": "Alemanha",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
@@ -4476,14 +4476,14 @@
     "nome": "Toni Kroos",
     "selecao": "Alemanha",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 98
   },
   {
     "nome": "Michael Ballack",
     "selecao": "Alemanha",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 93
   },
   {
@@ -4504,7 +4504,7 @@
     "nome": "Ilkay Gündogan",
     "selecao": "Alemanha",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -4518,35 +4518,35 @@
     "nome": "Miroslav Klose",
     "selecao": "Alemanha",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "Gerd Müller",
     "selecao": "Alemanha",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Jürgen Klinsmann",
     "selecao": "Alemanha",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Rudi Völler",
     "selecao": "Alemanha",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Kai Havertz",
     "selecao": "Alemanha",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 86
   },
   {
@@ -4651,14 +4651,14 @@
     "nome": "Toni Kroos",
     "selecao": "Alemanha",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Michael Ballack",
     "selecao": "Alemanha",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 94
   },
   {
@@ -4679,7 +4679,7 @@
     "nome": "Ilkay Gündogan",
     "selecao": "Alemanha",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 88
   },
   {
@@ -4693,35 +4693,35 @@
     "nome": "Miroslav Klose",
     "selecao": "Alemanha",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Gerd Müller",
     "selecao": "Alemanha",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
     "nome": "Jürgen Klinsmann",
     "selecao": "Alemanha",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Rudi Völler",
     "selecao": "Alemanha",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Kai Havertz",
     "selecao": "Alemanha",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
@@ -4826,14 +4826,14 @@
     "nome": "Toni Kroos",
     "selecao": "Alemanha",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Michael Ballack",
     "selecao": "Alemanha",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 94
   },
   {
@@ -4854,7 +4854,7 @@
     "nome": "Ilkay Gündogan",
     "selecao": "Alemanha",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 89
   },
   {
@@ -4868,35 +4868,35 @@
     "nome": "Miroslav Klose",
     "selecao": "Alemanha",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "Gerd Müller",
     "selecao": "Alemanha",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Jürgen Klinsmann",
     "selecao": "Alemanha",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Rudi Völler",
     "selecao": "Alemanha",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Kai Havertz",
     "selecao": "Alemanha",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
@@ -5001,14 +5001,14 @@
     "nome": "Enzo Fernández",
     "selecao": "Argentina",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 88
   },
   {
     "nome": "Rodrigo De Paul",
     "selecao": "Argentina",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -5036,42 +5036,42 @@
     "nome": "Lionel Messi",
     "selecao": "Argentina",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 98
   },
   {
     "nome": "Gabriel Batistuta",
     "selecao": "Argentina",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "Sergio Agüero",
     "selecao": "Argentina",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Hernán Crespo",
     "selecao": "Argentina",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": "Julián Álvarez",
     "selecao": "Argentina",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": "Mario Kempes",
     "selecao": "Argentina",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
@@ -5176,14 +5176,14 @@
     "nome": "Enzo Fernández",
     "selecao": "Argentina",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 88
   },
   {
     "nome": "Rodrigo De Paul",
     "selecao": "Argentina",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 88
   },
   {
@@ -5211,42 +5211,42 @@
     "nome": "Lionel Messi",
     "selecao": "Argentina",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
     "nome": "Gabriel Batistuta",
     "selecao": "Argentina",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Sergio Agüero",
     "selecao": "Argentina",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Hernán Crespo",
     "selecao": "Argentina",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": "Julián Álvarez",
     "selecao": "Argentina",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Mario Kempes",
     "selecao": "Argentina",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
@@ -5351,14 +5351,14 @@
     "nome": "Enzo Fernández",
     "selecao": "Argentina",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 89
   },
   {
     "nome": "Rodrigo De Paul",
     "selecao": "Argentina",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -5386,42 +5386,42 @@
     "nome": "Lionel Messi",
     "selecao": "Argentina",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
     "nome": "Gabriel Batistuta",
     "selecao": "Argentina",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Sergio Agüero",
     "selecao": "Argentina",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Hernán Crespo",
     "selecao": "Argentina",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Julián Álvarez",
     "selecao": "Argentina",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Mario Kempes",
     "selecao": "Argentina",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
@@ -5526,14 +5526,14 @@
     "nome": "Enzo Fernández",
     "selecao": "Argentina",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
     "nome": "Rodrigo De Paul",
     "selecao": "Argentina",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 89
   },
   {
@@ -5561,42 +5561,42 @@
     "nome": "Lionel Messi",
     "selecao": "Argentina",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
     "nome": "Gabriel Batistuta",
     "selecao": "Argentina",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
     "nome": "Sergio Agüero",
     "selecao": "Argentina",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Hernán Crespo",
     "selecao": "Argentina",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Julián Álvarez",
     "selecao": "Argentina",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
     "nome": "Mario Kempes",
     "selecao": "Argentina",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
@@ -5701,14 +5701,14 @@
     "nome": "Enzo Fernández",
     "selecao": "Argentina",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
     "nome": "Rodrigo De Paul",
     "selecao": "Argentina",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 88
   },
   {
@@ -5736,42 +5736,42 @@
     "nome": "Lionel Messi",
     "selecao": "Argentina",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
     "nome": "Gabriel Batistuta",
     "selecao": "Argentina",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Sergio Agüero",
     "selecao": "Argentina",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Hernán Crespo",
     "selecao": "Argentina",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Julián Álvarez",
     "selecao": "Argentina",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 88
   },
   {
     "nome": "Mario Kempes",
     "selecao": "Argentina",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
@@ -5876,14 +5876,14 @@
     "nome": "Enzo Fernández",
     "selecao": "Argentina",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 89
   },
   {
     "nome": "Rodrigo De Paul",
     "selecao": "Argentina",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -5911,42 +5911,42 @@
     "nome": "Lionel Messi",
     "selecao": "Argentina",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
     "nome": "Gabriel Batistuta",
     "selecao": "Argentina",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Sergio Agüero",
     "selecao": "Argentina",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "Hernán Crespo",
     "selecao": "Argentina",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Julián Álvarez",
     "selecao": "Argentina",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
     "nome": "Mario Kempes",
     "selecao": "Argentina",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 98
   },
   {
@@ -6051,14 +6051,14 @@
     "nome": "Enzo Fernández",
     "selecao": "Argentina",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
     "nome": "Rodrigo De Paul",
     "selecao": "Argentina",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 88
   },
   {
@@ -6086,42 +6086,42 @@
     "nome": "Lionel Messi",
     "selecao": "Argentina",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
     "nome": "Gabriel Batistuta",
     "selecao": "Argentina",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Sergio Agüero",
     "selecao": "Argentina",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Hernán Crespo",
     "selecao": "Argentina",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Julián Álvarez",
     "selecao": "Argentina",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
     "nome": "Mario Kempes",
     "selecao": "Argentina",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
@@ -6219,7 +6219,7 @@
     "nome": "Andrea Pirlo",
     "selecao": "Itália",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
@@ -6233,7 +6233,7 @@
     "nome": "Marco Tardelli",
     "selecao": "Itália",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -6268,35 +6268,35 @@
     "nome": "Alessandro Del Piero",
     "selecao": "Itália",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
     "nome": "Filippo Inzaghi",
     "selecao": "Itália",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Christian Vieri",
     "selecao": "Itália",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Paolo Rossi",
     "selecao": "Itália",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "Gianluca Vialli",
     "selecao": "Itália",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
@@ -6394,7 +6394,7 @@
     "nome": "Andrea Pirlo",
     "selecao": "Itália",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 98
   },
   {
@@ -6408,7 +6408,7 @@
     "nome": "Marco Tardelli",
     "selecao": "Itália",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -6443,35 +6443,35 @@
     "nome": "Alessandro Del Piero",
     "selecao": "Itália",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Filippo Inzaghi",
     "selecao": "Itália",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
     "nome": "Christian Vieri",
     "selecao": "Itália",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Paolo Rossi",
     "selecao": "Itália",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "Gianluca Vialli",
     "selecao": "Itália",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
@@ -6569,7 +6569,7 @@
     "nome": "Andrea Pirlo",
     "selecao": "Itália",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 94
   },
   {
@@ -6583,7 +6583,7 @@
     "nome": "Marco Tardelli",
     "selecao": "Itália",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 93
   },
   {
@@ -6618,35 +6618,35 @@
     "nome": "Alessandro Del Piero",
     "selecao": "Itália",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Filippo Inzaghi",
     "selecao": "Itália",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Christian Vieri",
     "selecao": "Itália",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Paolo Rossi",
     "selecao": "Itália",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Gianluca Vialli",
     "selecao": "Itália",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
@@ -6744,7 +6744,7 @@
     "nome": "Andrea Pirlo",
     "selecao": "Itália",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 98
   },
   {
@@ -6758,7 +6758,7 @@
     "nome": "Marco Tardelli",
     "selecao": "Itália",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -6793,35 +6793,35 @@
     "nome": "Alessandro Del Piero",
     "selecao": "Itália",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
     "nome": "Filippo Inzaghi",
     "selecao": "Itália",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": "Christian Vieri",
     "selecao": "Itália",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Paolo Rossi",
     "selecao": "Itália",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "Gianluca Vialli",
     "selecao": "Itália",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
@@ -6919,7 +6919,7 @@
     "nome": "Andrea Pirlo",
     "selecao": "Itália",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
@@ -6933,7 +6933,7 @@
     "nome": "Marco Tardelli",
     "selecao": "Itália",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 93
   },
   {
@@ -6968,35 +6968,35 @@
     "nome": "Alessandro Del Piero",
     "selecao": "Itália",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Filippo Inzaghi",
     "selecao": "Itália",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Christian Vieri",
     "selecao": "Itália",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Paolo Rossi",
     "selecao": "Itália",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Gianluca Vialli",
     "selecao": "Itália",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
@@ -7094,7 +7094,7 @@
     "nome": "Andrea Pirlo",
     "selecao": "Itália",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
@@ -7108,7 +7108,7 @@
     "nome": "Marco Tardelli",
     "selecao": "Itália",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 89
   },
   {
@@ -7143,35 +7143,35 @@
     "nome": "Alessandro Del Piero",
     "selecao": "Itália",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "Filippo Inzaghi",
     "selecao": "Itália",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Christian Vieri",
     "selecao": "Itália",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Paolo Rossi",
     "selecao": "Itália",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Gianluca Vialli",
     "selecao": "Itália",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
@@ -7269,7 +7269,7 @@
     "nome": "Andrea Pirlo",
     "selecao": "Itália",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
@@ -7283,7 +7283,7 @@
     "nome": "Marco Tardelli",
     "selecao": "Itália",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -7318,35 +7318,35 @@
     "nome": "Alessandro Del Piero",
     "selecao": "Itália",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Filippo Inzaghi",
     "selecao": "Itália",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
     "nome": "Christian Vieri",
     "selecao": "Itália",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Paolo Rossi",
     "selecao": "Itália",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 94
   },
   {
     "nome": "Gianluca Vialli",
     "selecao": "Itália",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
@@ -7451,7 +7451,7 @@
     "nome": "João Moutinho",
     "selecao": "Portugal",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 89
   },
   {
@@ -7493,35 +7493,35 @@
     "nome": "Cristiano Ronaldo",
     "selecao": "Portugal",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
     "nome": "Eusébio",
     "selecao": "Portugal",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 98
   },
   {
     "nome": "Nani",
     "selecao": "Portugal",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": " Pauleta",
     "selecao": "Portugal",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": "João Félix",
     "selecao": "Portugal",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 88
   },
   {
@@ -7626,7 +7626,7 @@
     "nome": "João Moutinho",
     "selecao": "Portugal",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 89
   },
   {
@@ -7668,35 +7668,35 @@
     "nome": "Cristiano Ronaldo",
     "selecao": "Portugal",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 98
   },
   {
     "nome": "Eusébio",
     "selecao": "Portugal",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Nani",
     "selecao": "Portugal",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 88
   },
   {
     "nome": " Pauleta",
     "selecao": "Portugal",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
     "nome": "João Félix",
     "selecao": "Portugal",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 88
   },
   {
@@ -7801,7 +7801,7 @@
     "nome": "João Moutinho",
     "selecao": "Portugal",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 89
   },
   {
@@ -7843,35 +7843,35 @@
     "nome": "Cristiano Ronaldo",
     "selecao": "Portugal",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Eusébio",
     "selecao": "Portugal",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
     "nome": "Nani",
     "selecao": "Portugal",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": " Pauleta",
     "selecao": "Portugal",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": "João Félix",
     "selecao": "Portugal",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
@@ -7976,7 +7976,7 @@
     "nome": "João Moutinho",
     "selecao": "Portugal",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 88
   },
   {
@@ -8018,35 +8018,35 @@
     "nome": "Cristiano Ronaldo",
     "selecao": "Portugal",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
     "nome": "Eusébio",
     "selecao": "Portugal",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
     "nome": "Nani",
     "selecao": "Portugal",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": " Pauleta",
     "selecao": "Portugal",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": "João Félix",
     "selecao": "Portugal",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 86
   },
   {
@@ -8151,7 +8151,7 @@
     "nome": "João Moutinho",
     "selecao": "Portugal",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 89
   },
   {
@@ -8193,35 +8193,35 @@
     "nome": "Cristiano Ronaldo",
     "selecao": "Portugal",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
     "nome": "Eusébio",
     "selecao": "Portugal",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 98
   },
   {
     "nome": "Nani",
     "selecao": "Portugal",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": " Pauleta",
     "selecao": "Portugal",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
     "nome": "João Félix",
     "selecao": "Portugal",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 88
   },
   {
@@ -8326,7 +8326,7 @@
     "nome": "João Moutinho",
     "selecao": "Portugal",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 88
   },
   {
@@ -8368,35 +8368,35 @@
     "nome": "Cristiano Ronaldo",
     "selecao": "Portugal",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 98
   },
   {
     "nome": "Eusébio",
     "selecao": "Portugal",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 98
   },
   {
     "nome": "Nani",
     "selecao": "Portugal",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 87
   },
   {
     "nome": " Pauleta",
     "selecao": "Portugal",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 88
   },
   {
     "nome": "João Félix",
     "selecao": "Portugal",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 86
   },
   {
@@ -8501,7 +8501,7 @@
     "nome": "João Moutinho",
     "selecao": "Portugal",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 87
   },
   {
@@ -8543,35 +8543,35 @@
     "nome": "Cristiano Ronaldo",
     "selecao": "Portugal",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
     "nome": "Eusébio",
     "selecao": "Portugal",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 98
   },
   {
     "nome": "Nani",
     "selecao": "Portugal",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
     "nome": " Pauleta",
     "selecao": "Portugal",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "João Félix",
     "selecao": "Portugal",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 87
   },
   {
@@ -8676,7 +8676,7 @@
     "nome": "Frenkie de Jong",
     "selecao": "Países Baixos",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -8690,49 +8690,49 @@
     "nome": "Clarence Seedorf",
     "selecao": "Países Baixos",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Arjen Robben",
     "selecao": "Países Baixos",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
     "nome": "Dennis Bergkamp",
     "selecao": "Países Baixos",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Robin van Persie",
     "selecao": "Países Baixos",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Ruud van Nistelrooy",
     "selecao": "Países Baixos",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Patrick Kluivert",
     "selecao": "Países Baixos",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Memphis Depay",
     "selecao": "Países Baixos",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
@@ -8746,7 +8746,7 @@
     "nome": "Marco van Basten",
     "selecao": "Países Baixos",
     "ano": 1998,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
@@ -8851,7 +8851,7 @@
     "nome": "Frenkie de Jong",
     "selecao": "Países Baixos",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -8865,49 +8865,49 @@
     "nome": "Clarence Seedorf",
     "selecao": "Países Baixos",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 93
   },
   {
     "nome": "Arjen Robben",
     "selecao": "Países Baixos",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Dennis Bergkamp",
     "selecao": "Países Baixos",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
     "nome": "Robin van Persie",
     "selecao": "Países Baixos",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Ruud van Nistelrooy",
     "selecao": "Países Baixos",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Patrick Kluivert",
     "selecao": "Países Baixos",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Memphis Depay",
     "selecao": "Países Baixos",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 87
   },
   {
@@ -8921,7 +8921,7 @@
     "nome": "Marco van Basten",
     "selecao": "Países Baixos",
     "ano": 2002,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
@@ -9026,7 +9026,7 @@
     "nome": "Frenkie de Jong",
     "selecao": "Países Baixos",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -9040,49 +9040,49 @@
     "nome": "Clarence Seedorf",
     "selecao": "Países Baixos",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Arjen Robben",
     "selecao": "Países Baixos",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
     "nome": "Dennis Bergkamp",
     "selecao": "Países Baixos",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Robin van Persie",
     "selecao": "Países Baixos",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Ruud van Nistelrooy",
     "selecao": "Países Baixos",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Patrick Kluivert",
     "selecao": "Países Baixos",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Memphis Depay",
     "selecao": "Países Baixos",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
@@ -9096,7 +9096,7 @@
     "nome": "Marco van Basten",
     "selecao": "Países Baixos",
     "ano": 2006,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
@@ -9201,7 +9201,7 @@
     "nome": "Frenkie de Jong",
     "selecao": "Países Baixos",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -9215,49 +9215,49 @@
     "nome": "Clarence Seedorf",
     "selecao": "Países Baixos",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 94
   },
   {
     "nome": "Arjen Robben",
     "selecao": "Países Baixos",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
     "nome": "Dennis Bergkamp",
     "selecao": "Países Baixos",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Robin van Persie",
     "selecao": "Países Baixos",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
     "nome": "Ruud van Nistelrooy",
     "selecao": "Países Baixos",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Patrick Kluivert",
     "selecao": "Países Baixos",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Memphis Depay",
     "selecao": "Países Baixos",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 91
   },
   {
@@ -9271,7 +9271,7 @@
     "nome": "Marco van Basten",
     "selecao": "Países Baixos",
     "ano": 2010,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 99
   },
   {
@@ -9376,7 +9376,7 @@
     "nome": "Frenkie de Jong",
     "selecao": "Países Baixos",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -9390,49 +9390,49 @@
     "nome": "Clarence Seedorf",
     "selecao": "Países Baixos",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
     "nome": "Arjen Robben",
     "selecao": "Países Baixos",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 95
   },
   {
     "nome": "Dennis Bergkamp",
     "selecao": "Países Baixos",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Robin van Persie",
     "selecao": "Países Baixos",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 93
   },
   {
     "nome": "Ruud van Nistelrooy",
     "selecao": "Países Baixos",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Patrick Kluivert",
     "selecao": "Países Baixos",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Memphis Depay",
     "selecao": "Países Baixos",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   },
   {
@@ -9446,7 +9446,7 @@
     "nome": "Marco van Basten",
     "selecao": "Países Baixos",
     "ano": 2014,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 98
   },
   {
@@ -9551,7 +9551,7 @@
     "nome": "Frenkie de Jong",
     "selecao": "Países Baixos",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -9565,14 +9565,14 @@
     "nome": "Clarence Seedorf",
     "selecao": "Países Baixos",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
     "nome": "Arjen Robben",
     "selecao": "Países Baixos",
     "ano": 2018,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 96
   },
   {
@@ -9726,7 +9726,7 @@
     "nome": "Frenkie de Jong",
     "selecao": "Países Baixos",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -9740,7 +9740,7 @@
     "nome": "Clarence Seedorf",
     "selecao": "Países Baixos",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 93
   },
   {
@@ -9894,21 +9894,21 @@
     "nome": "David Beckham",
     "selecao": "Inglaterra",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Steven Gerrard",
     "selecao": "Inglaterra",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
     "nome": "Frank Lampard",
     "selecao": "Inglaterra",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
@@ -10069,21 +10069,21 @@
     "nome": "David Beckham",
     "selecao": "Inglaterra",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
     "nome": "Steven Gerrard",
     "selecao": "Inglaterra",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Frank Lampard",
     "selecao": "Inglaterra",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
@@ -10244,21 +10244,21 @@
     "nome": "David Beckham",
     "selecao": "Inglaterra",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
     "nome": "Steven Gerrard",
     "selecao": "Inglaterra",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 97
   },
   {
     "nome": "Frank Lampard",
     "selecao": "Inglaterra",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 94
   },
   {
@@ -10419,21 +10419,21 @@
     "nome": "David Beckham",
     "selecao": "Inglaterra",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
     "nome": "Steven Gerrard",
     "selecao": "Inglaterra",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 97
   },
   {
     "nome": "Frank Lampard",
     "selecao": "Inglaterra",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 97
   },
   {
@@ -10594,21 +10594,21 @@
     "nome": "David Beckham",
     "selecao": "Inglaterra",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
     "nome": "Steven Gerrard",
     "selecao": "Inglaterra",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Frank Lampard",
     "selecao": "Inglaterra",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 93
   },
   {
@@ -10769,21 +10769,21 @@
     "nome": "David Beckham",
     "selecao": "Inglaterra",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 94
   },
   {
     "nome": "Steven Gerrard",
     "selecao": "Inglaterra",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 97
   },
   {
     "nome": "Frank Lampard",
     "selecao": "Inglaterra",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 94
   },
   {
@@ -10944,21 +10944,21 @@
     "nome": "David Beckham",
     "selecao": "Inglaterra",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
     "nome": "Steven Gerrard",
     "selecao": "Inglaterra",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
     "nome": "Frank Lampard",
     "selecao": "Inglaterra",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 96
   },
   {
@@ -11112,7 +11112,7 @@
     "nome": "Federico Valverde",
     "selecao": "Uruguai",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 93
   },
   {
@@ -11287,7 +11287,7 @@
     "nome": "Federico Valverde",
     "selecao": "Uruguai",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
@@ -11462,7 +11462,7 @@
     "nome": "Federico Valverde",
     "selecao": "Uruguai",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -11637,7 +11637,7 @@
     "nome": "Federico Valverde",
     "selecao": "Uruguai",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -11812,7 +11812,7 @@
     "nome": "Federico Valverde",
     "selecao": "Uruguai",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
@@ -11987,7 +11987,7 @@
     "nome": "Federico Valverde",
     "selecao": "Uruguai",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -12162,7 +12162,7 @@
     "nome": "Federico Valverde",
     "selecao": "Uruguai",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 93
   },
   {
@@ -12309,7 +12309,7 @@
     "nome": "Tsuyoshi Kitazawa",
     "selecao": "Japão",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 81
   },
   {
@@ -12323,7 +12323,7 @@
     "nome": "Shinji Ono",
     "selecao": "Japão",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -12484,7 +12484,7 @@
     "nome": "Tsuyoshi Kitazawa",
     "selecao": "Japão",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 82
   },
   {
@@ -12498,7 +12498,7 @@
     "nome": "Shinji Ono",
     "selecao": "Japão",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -12659,7 +12659,7 @@
     "nome": "Tsuyoshi Kitazawa",
     "selecao": "Japão",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 82
   },
   {
@@ -12673,7 +12673,7 @@
     "nome": "Shinji Ono",
     "selecao": "Japão",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -12834,7 +12834,7 @@
     "nome": "Tsuyoshi Kitazawa",
     "selecao": "Japão",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 82
   },
   {
@@ -12848,7 +12848,7 @@
     "nome": "Shinji Ono",
     "selecao": "Japão",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 89
   },
   {
@@ -13009,7 +13009,7 @@
     "nome": "Tsuyoshi Kitazawa",
     "selecao": "Japão",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 82
   },
   {
@@ -13023,7 +13023,7 @@
     "nome": "Shinji Ono",
     "selecao": "Japão",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 88
   },
   {
@@ -13184,7 +13184,7 @@
     "nome": "Tsuyoshi Kitazawa",
     "selecao": "Japão",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 83
   },
   {
@@ -13198,7 +13198,7 @@
     "nome": "Shinji Ono",
     "selecao": "Japão",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -13296,7 +13296,7 @@
     "nome": "Junichi Inamoto",
     "selecao": "Japão",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 86
   },
   {
@@ -13359,7 +13359,7 @@
     "nome": "Tsuyoshi Kitazawa",
     "selecao": "Japão",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 83
   },
   {
@@ -13373,7 +13373,7 @@
     "nome": "Shinji Ono",
     "selecao": "Japão",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 87
   },
   {
@@ -13394,7 +13394,7 @@
     "nome": "Ao Tanaka",
     "selecao": "Japão",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 82
   },
   {
@@ -13471,7 +13471,7 @@
     "nome": "Junichi Inamoto",
     "selecao": "Japão",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 85
   },
   {
@@ -13562,14 +13562,14 @@
     "nome": "Luka Modrić",
     "selecao": "Croácia",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 98
   },
   {
     "nome": "Ivan Rakitić",
     "selecao": "Croácia",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -13583,7 +13583,7 @@
     "nome": "Mateo Kovačić",
     "selecao": "Croácia",
     "ano": 1998,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -13737,14 +13737,14 @@
     "nome": "Luka Modrić",
     "selecao": "Croácia",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 99
   },
   {
     "nome": "Ivan Rakitić",
     "selecao": "Croácia",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -13758,7 +13758,7 @@
     "nome": "Mateo Kovačić",
     "selecao": "Croácia",
     "ano": 2002,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -13912,14 +13912,14 @@
     "nome": "Luka Modrić",
     "selecao": "Croácia",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 95
   },
   {
     "nome": "Ivan Rakitić",
     "selecao": "Croácia",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -13933,7 +13933,7 @@
     "nome": "Mateo Kovačić",
     "selecao": "Croácia",
     "ano": 2006,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -14087,14 +14087,14 @@
     "nome": "Luka Modrić",
     "selecao": "Croácia",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 99
   },
   {
     "nome": "Ivan Rakitić",
     "selecao": "Croácia",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -14108,7 +14108,7 @@
     "nome": "Mateo Kovačić",
     "selecao": "Croácia",
     "ano": 2010,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 89
   },
   {
@@ -14262,14 +14262,14 @@
     "nome": "Luka Modrić",
     "selecao": "Croácia",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 97
   },
   {
     "nome": "Ivan Rakitić",
     "selecao": "Croácia",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 92
   },
   {
@@ -14283,7 +14283,7 @@
     "nome": "Mateo Kovačić",
     "selecao": "Croácia",
     "ano": 2014,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -14437,14 +14437,14 @@
     "nome": "Luka Modrić",
     "selecao": "Croácia",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 97
   },
   {
     "nome": "Ivan Rakitić",
     "selecao": "Croácia",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -14458,7 +14458,7 @@
     "nome": "Mateo Kovačić",
     "selecao": "Croácia",
     "ano": 2018,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -14612,14 +14612,14 @@
     "nome": "Luka Modrić",
     "selecao": "Croácia",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 97
   },
   {
     "nome": "Ivan Rakitić",
     "selecao": "Croácia",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 90
   },
   {
@@ -14633,7 +14633,7 @@
     "nome": "Mateo Kovačić",
     "selecao": "Croácia",
     "ano": 2022,
-    "posicao": "MC",
+    "posicao": "MC/MD/ME",
     "overall": 91
   },
   {
@@ -14654,35 +14654,35 @@
     "nome": "Ivan Perišić",
     "selecao": "Croácia",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Mario Mandžukić",
     "selecao": "Croácia",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 92
   },
   {
     "nome": "Davor Šuker",
     "selecao": "Croácia",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 97
   },
   {
     "nome": "Andrej Kramarić",
     "selecao": "Croácia",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 90
   },
   {
     "nome": "Ante Rebić",
     "selecao": "Croácia",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 87
   },
   {
@@ -14696,7 +14696,7 @@
     "nome": "Alen Bokšić",
     "selecao": "Croácia",
     "ano": 2022,
-    "posicao": "ATA",
+    "posicao": "ATA/PD/PE",
     "overall": 89
   }
 ]

@@ -51,7 +51,7 @@ def criar_tabelas():
     conn.close()
 
 def carregar_dados_json():
-    """Lê o arquivo jogadores.json e popula o banco de dados"""
+    """Lê o arquivo jogadores.json e força a sincronização com o banco de dados"""
     caminho_arquivo = os.path.join('dados', 'jogadores.json')
     
     if not os.path.exists(caminho_arquivo):
@@ -61,21 +61,27 @@ def carregar_dados_json():
     conn = conectar()
     cursor = conn.cursor()
     
-    # Verifica se já temos dados. Se o banco estiver vazio, importa do JSON.
-    cursor.execute('SELECT COUNT(*) FROM jogadores')
-    if cursor.fetchone()[0] == 0:
-        with open(caminho_arquivo, 'r', encoding='utf-8') as f:
-            dados = json.load(f)
-            
-        for j in dados:
-            cursor.execute('''
-                INSERT INTO jogadores (nome, selecao, ano, posicao, overall)
-                VALUES (?, ?, ?, ?, ?)
-            ''', (j['nome'], j['selecao'], j['ano'], j['posicao'], j['overall']))
-            
-        conn.commit()
-        print(f"✅ {len(dados)} jogadores carregados do JSON com sucesso!")
+    with open(caminho_arquivo, 'r', encoding='utf-8') as f:
+        dados = json.load(f)
         
+    # 1. Apaga a lista antiga de jogadores para atualizar com o novo JSON
+    cursor.execute('DELETE FROM jogadores')
+    
+    # 2. Reseta os IDs para não virarem números gigantes
+    cursor.execute('DELETE FROM sqlite_sequence WHERE name="jogadores"')
+    
+    for j in dados:
+        # 3. O PULO DO GATO: Se você digitar com espaço sem querer no JSON (ex: "ATA / PD / PE"), 
+        # o bot limpa automaticamente para "ATA/PD/PE" para não quebrar a busca do SQL!
+        posicao_limpa = "/".join([p.strip() for p in j['posicao'].split('/')])
+        
+        cursor.execute('''
+            INSERT INTO jogadores (nome, selecao, ano, posicao, overall)
+            VALUES (?, ?, ?, ?, ?)
+        ''', (j['nome'], j['selecao'], j['ano'], posicao_limpa, j['overall']))
+        
+    conn.commit()
+    print(f"✅ Sincronização Perfeita! {len(dados)} jogadores carregados do JSON para o banco.")
     conn.close()
 
 def obter_vagas_disponiveis(user_id):
@@ -106,17 +112,43 @@ def sortear_selecao(user_id):
     conn = conectar()
     cursor = conn.cursor()
     
+    # 1. Pega os IDs dos jogadores já escolhidos
     cursor.execute('SELECT jogador_id FROM elenco_ativo WHERE user_id = ?', (user_id,))
     ja_escolhidos = [row[0] for row in cursor.fetchall()]
     
-    placeholders = ""
+    # 2. Descobre QUAIS POSIÇÕES ainda estão vazias
+    vagas_livres = obter_vagas_disponiveis(user_id)
+    posicoes_necessarias = list(set(vagas_livres))
+    
+    if not posicoes_necessarias:
+        conn.close()
+        return None, []
+        
+    # 3. CORREÇÃO DO BUG "ME" x "MEI":
+    # Em vez de um LIKE simples, verificamos 4 cenários exatos para ignorar falsos positivos:
+    # 1) É exatamente 'ME'
+    # 2) Começa com 'ME/' (ex: ME/ATA)
+    # 3) Está no meio '/ME/' (ex: PE/ME/ATA)
+    # 4) Termina com '/ME' (ex: PE/ME)
+    clausulas_posicao = []
+    params_posicao = []
+    
+    for pos in posicoes_necessarias:
+        clausulas_posicao.append("(posicao = ? OR posicao LIKE ? OR posicao LIKE ? OR posicao LIKE ?)")
+        params_posicao.extend([pos, f"{pos}/%", f"%/{pos}/%", f"%/{pos}"])
+        
+    filtro_posicoes = " OR ".join(clausulas_posicao)
+    
+    placeholders_esc = ""
+    query_sel = f"SELECT DISTINCT selecao, ano FROM jogadores WHERE ({filtro_posicoes})"
+    params_sel = params_posicao.copy()
     
     if ja_escolhidos:
-        placeholders = ','.join('?' * len(ja_escolhidos))
-        cursor.execute(f'SELECT DISTINCT selecao, ano FROM jogadores WHERE id NOT IN ({placeholders})', ja_escolhidos)
-    else:
-        cursor.execute('SELECT DISTINCT selecao, ano FROM jogadores')
+        placeholders_esc = ','.join('?' * len(ja_escolhidos))
+        query_sel += f" AND id NOT IN ({placeholders_esc})"
+        params_sel.extend(ja_escolhidos)
         
+    cursor.execute(query_sel, params_sel)
     combinacoes = cursor.fetchall()
     
     if not combinacoes:
@@ -125,22 +157,43 @@ def sortear_selecao(user_id):
         
     selecao_sorteada, ano_sorteado = random.choice(combinacoes)
     
-    if ja_escolhidos and placeholders:
-        cursor.execute(f'''
-            SELECT id, nome, posicao, overall 
-            FROM jogadores 
-            WHERE selecao = ? AND ano = ? AND id NOT IN ({placeholders})
-            ORDER BY overall DESC
-        ''', (selecao_sorteada, ano_sorteado, *ja_escolhidos))
-    else:
-        cursor.execute('''
-            SELECT id, nome, posicao, overall 
-            FROM jogadores 
-            WHERE selecao = ? AND ano = ?
-            ORDER BY overall DESC
-        ''', (selecao_sorteada, ano_sorteado))
+    # 4. Busca APENAS os jogadores que servem para as vagas abertas
+    query_jog = f'''
+        SELECT id, nome, posicao, overall 
+        FROM jogadores 
+        WHERE selecao = ? AND ano = ? AND ({filtro_posicoes})
+    '''
+    params_jog = [selecao_sorteada, ano_sorteado] + params_posicao
+    
+    if ja_escolhidos:
+        query_jog += f' AND id NOT IN ({placeholders_esc})'
+        params_jog.extend(ja_escolhidos)
         
+    query_jog += ' ORDER BY overall DESC'
+    
+    cursor.execute(query_jog, params_jog)
     jogadores = cursor.fetchall()
+    
+    conn.close()
+    return (selecao_sorteada, ano_sorteado), jogadores
+    
+    # 4. Busca APENAS os jogadores que servem para as vagas abertas
+    query_jog = f'''
+        SELECT id, nome, posicao, overall 
+        FROM jogadores 
+        WHERE selecao = ? AND ano = ? AND ({like_clauses})
+    '''
+    params_jog = [selecao_sorteada, ano_sorteado] + like_params
+    
+    if ja_escolhidos:
+        query_jog += f' AND id NOT IN ({placeholders_esc})'
+        params_jog.extend(ja_escolhidos)
+        
+    query_jog += ' ORDER BY overall DESC'
+    
+    cursor.execute(query_jog, params_jog)
+    jogadores = cursor.fetchall()
+    
     conn.close()
     return (selecao_sorteada, ano_sorteado), jogadores
 
@@ -189,7 +242,6 @@ def calcular_forca_time(user_id):
 
     media_ovr = sum(j[2] for j in jogadores) / len(jogadores)
     
-    # Bônus de Entrosamento e Penalidade de Posição
     entrosamento = 0
     combos = {}
     for j in jogadores:
@@ -197,8 +249,11 @@ def calcular_forca_time(user_id):
         chave = f"{selecao} {ano}"
         combos[chave] = combos.get(chave, 0) + 1
         
-        # Se escalou um Atacante como Zagueiro, perde força
-        if pos_escalada != pos_original:
+        # Agora divide as posições múltiplas separadas por barra para verificar
+        posicoes_permitidas = [p.strip() for p in pos_original.split('/')]
+        
+        # Penalidade só acontece se por algum bug bizarro ele jogar fora da posição nativa
+        if pos_escalada not in posicoes_permitidas:
             entrosamento -= 2 
 
     for count in combos.values():
@@ -209,14 +264,39 @@ def calcular_forca_time(user_id):
     return max(50, min(forca_total, 99))
 
 def gerar_adversarios_ia():
-    adversarios = [
+    # Forças DEFINIDAS e justas! Sem Japão overpower aleatório.
+    pool_ia = [
+        {"nome": "Brasil 1970", "forca": 96},
+        {"nome": "Brasil 2002", "forca": 94},
+        {"nome": "Espanha 2010", "forca": 93},
+        {"nome": "França 1998", "forca": 92},
+        {"nome": "França 2018", "forca": 91},
         {"nome": "Alemanha 2014", "forca": 93},
-        {"nome": "França 1998", "forca": 91},
-        {"nome": "Espanha 2010", "forca": 92},
-        {"nome": "Itália 2006", "forca": 90},
-        {"nome": "Argentina 1986", "forca": 89},
-        {"nome": "Brasil 1970", "forca": 95},
-        {"nome": "Holanda 1974", "forca": 88}
+        {"nome": "Alemanha 1990", "forca": 90},
+        {"nome": "Itália 2006", "forca": 91},
+        {"nome": "Itália 1982", "forca": 89},
+        {"nome": "Argentina 2022", "forca": 92},
+        {"nome": "Argentina 1986", "forca": 91},
+        {"nome": "Holanda 1974", "forca": 92},
+        {"nome": "Holanda 1988", "forca": 89},
+        {"nome": "Inglaterra 1966", "forca": 88},
+        {"nome": "Inglaterra 2018", "forca": 86},
+        {"nome": "Uruguai 1950", "forca": 87},
+        {"nome": "Croácia 2018", "forca": 86},
+        {"nome": "Bélgica 2018", "forca": 87},
+        {"nome": "Portugal 2006", "forca": 88},
+        {"nome": "Portugal 2016", "forca": 87},
+        {"nome": "Japão 2022", "forca": 82},
+        {"nome": "Marrocos 2022", "forca": 83},
+        {"nome": "Senegal 2002", "forca": 82},
+        {"nome": "Colômbia 2014", "forca": 84},
+        {"nome": "Chile 2015", "forca": 85},
+        {"nome": "Grécia 2004", "forca": 81},
+        {"nome": "Camarões 1990", "forca": 82},
+        {"nome": "Turquia 2002", "forca": 84},
+        {"nome": "Coreia do Sul 2002", "forca": 81},
+        {"nome": "Suécia 1958", "forca": 85}
     ]
-    random.shuffle(adversarios)
+    # Sorteia 8 times únicos para a Run (3 Grupos + 16-avos + Oitavas + Quartas + Semi + Final)
+    adversarios = random.sample(pool_ia, 8)
     return adversarios
